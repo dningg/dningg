@@ -13,6 +13,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=dningg&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!---
-dningg/dningg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
