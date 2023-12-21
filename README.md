@@ -4,12 +4,11 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-## 📊GitHub Stats :
+<div align="center">
+<h1><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"> console.log("OS caăng thật đó!");</h1>
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=dningg&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dningg&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dningg&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=dningg&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+<img src="https://media.giphy.com/media/vs7hV2tPoHGCs/source.gif?cid=790b761191cad41ff1eec569facba42c8477f4f116388ea0&rid=source.gif&ct=g" width="850" height="220"> 
+</p>
 
