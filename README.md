@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 <div align="center">
-<h1><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"> console.log("OS caăng thật đó!");</h1>
+<h1><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"> console.log("DIP toaăng thật đó!");</h1>
 </div>
 
 <p align="center">
