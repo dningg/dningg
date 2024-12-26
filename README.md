@@ -1,7 +1,7 @@
 👋 Hi, I’m Nguyễn Duy Ninh, call me Ningg...
 
 <div align="center">
-<h1><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"> console.log("Tinh Anh Nhu Dai Duong");</h1>
+<h1><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"> console.log("TinhAnhNhuDaiDuong");</h1>
 </div>
 
 <p align="center">
